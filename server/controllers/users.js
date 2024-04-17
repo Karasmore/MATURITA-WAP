@@ -6,7 +6,7 @@ METHOD: POST
 URL: /users
 BODY: 
 {
-  "firstName: "Alex",
+  "firstName": "Alex",
   "lastName": "Smith", 
   "age": 42
 }
