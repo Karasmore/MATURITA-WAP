@@ -18,6 +18,9 @@ export default function AppRoutes() {
         <Route path="/update-user/:id" element={<UserUpdateForm />} />
         <Route path="/created-user/:id" element={<CreatedUser />} />
         <Route path="/deleted-user/:id" element={<DeletedUser />} />
+        
+
+        
       </Routes>
     </BrowserRouter>
   )
