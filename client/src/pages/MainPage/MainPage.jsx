@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-
+import "./test.css";
 export default function MainPage() {
   return (
     <>
